@@ -2,8 +2,8 @@
 
 /**
  * add - add two integers
- * @a: first  argument
- * @b: second argument
+ * @n: first  argument
+ * @x: second argument
  * Return: sum of the two intergers 
  */
 
